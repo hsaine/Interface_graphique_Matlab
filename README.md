@@ -1,1 +1,1 @@
-<h1> Interface_graphique_Matlab</h1>
+<h1 align="center"> Interface_graphique_Matlab</h1>
