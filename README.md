@@ -1,4 +1,4 @@
-<h1 align="center"> Interface_graphique_Matlab</h1>
+<h1 align="center"> Interface graphique Matlab</h1>
 
 <h1 align="center"> Résolution d’un système linéaire Ax=b</h1>
  <p align="center"> <img src="matlab-projet.png"><br>Résolution d’un système linéaire Ax=b</p> 
@@ -37,7 +37,8 @@ résultat, la seule différence entre ces méthodes est le cout d’exécution, 
 interface affiche le résultat numériquement puis graphiquement en appuyions sur
 le buton DRAW.
 <h1 align="center"> Description du projet</h1>
-Le projet consiste à créer une interface graphique permet aux utilasateurs le resolution d'un systeme Ax=b
+Le projet consiste à créer une interface graphique permet aux utilisateurs la resolution d'un systeme Ax=b
 <h1 align="center"> Rapport</h1>
 Pour plus de details télecharger le rapport ci-dessous:
-<https://www.markdownguide.org>
+
+[rapport](Rapport.pdf)
